@@ -1,1 +1,1 @@
-# FullerLicenseGenerator.swift
+# LicenseHTMLGenerator.swift
