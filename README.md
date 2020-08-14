@@ -1,0 +1,1 @@
+# FullerLicenseGenerator.swift
