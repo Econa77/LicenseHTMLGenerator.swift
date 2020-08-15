@@ -27,7 +27,7 @@ You can see options by `license-html-generator --help`.
 - Default: None.
 
 ### Templates
-The generated HTML can be customized using [stencil](https://github.com/stencilproject/Stencil). [This template](https://github.com/Econa77/LicenseHTMLGenerator.swift/blob/9bae1888158fd7f5d5fa0527a4c9856f43c7db62/Sources/LicenseHTMLGeneratorKit/HTMLTemplate.swift#L6-L24) is used by default.
+The generated HTML can be customized using [stencil](https://github.com/stencilproject/Stencil). [This template](https://github.com/Econa77/LicenseHTMLGenerator.swift/blob/da65a75225e97d18cfd2fc69933072f95a10fe2b/Sources/LicenseHTMLGeneratorKit/HTMLTemplate.swift#L6-L24) is used by default.
 
 The elements that can be used in a template are as follows.
 
